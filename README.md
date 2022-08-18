@@ -1,7 +1,7 @@
 ## Install
 
 ```sh
-<%= installCommand %>
+git clone https://github.com/PogManation/Improved-Calculator
 ```
 <% } -%>
 <% if (usage) { -%>
@@ -9,7 +9,5 @@
 ## Usage
 
 ```sh
-<%= usage %>
+python improved_calculator
 ```
-<% } -%>
-<% if (testCommand) { -%>

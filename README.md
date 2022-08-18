@@ -1,3 +1,6 @@
+## My Improved Calculator
+Am improved version of my first python project
+
 ## Install
 
 ```sh
